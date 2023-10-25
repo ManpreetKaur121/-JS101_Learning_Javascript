@@ -1,0 +1,5 @@
+let str_name1 = "Masai" + " " + "School";
+let str_name2 = "A" + " " + "Transformation" + " " + "in" + " " + "Education";
+
+console.log(str_name1);
+console.log(str_name2);
